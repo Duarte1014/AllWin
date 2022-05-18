@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AllWin.github.io/static/css/main.6d2adf73.css",
-    "main.js": "/AllWin.github.io/static/js/main.1fed675f.js",
-    "static/js/787.b13ae438.chunk.js": "/AllWin.github.io/static/js/787.b13ae438.chunk.js",
-    "static/media/charity.png": "/AllWin.github.io/static/media/charity.9cec6e681e8d4fdfb502.png",
-    "static/media/AllWin.png": "/AllWin.github.io/static/media/AllWin.ba9e3b680f37331414ec.png",
-    "index.html": "/AllWin.github.io/index.html",
-    "main.6d2adf73.css.map": "/AllWin.github.io/static/css/main.6d2adf73.css.map",
-    "main.1fed675f.js.map": "/AllWin.github.io/static/js/main.1fed675f.js.map",
-    "787.b13ae438.chunk.js.map": "/AllWin.github.io/static/js/787.b13ae438.chunk.js.map"
+    "main.css": "/AllWin/static/css/main.6d2adf73.css",
+    "main.js": "/AllWin/static/js/main.8620ff02.js",
+    "static/js/787.b13ae438.chunk.js": "/AllWin/static/js/787.b13ae438.chunk.js",
+    "static/media/charity.png": "/AllWin/static/media/charity.9cec6e681e8d4fdfb502.png",
+    "static/media/AllWin.png": "/AllWin/static/media/AllWin.ba9e3b680f37331414ec.png",
+    "index.html": "/AllWin/index.html",
+    "main.6d2adf73.css.map": "/AllWin/static/css/main.6d2adf73.css.map",
+    "main.8620ff02.js.map": "/AllWin/static/js/main.8620ff02.js.map",
+    "787.b13ae438.chunk.js.map": "/AllWin/static/js/787.b13ae438.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d2adf73.css",
-    "static/js/main.1fed675f.js"
+    "static/js/main.8620ff02.js"
   ]
 }
